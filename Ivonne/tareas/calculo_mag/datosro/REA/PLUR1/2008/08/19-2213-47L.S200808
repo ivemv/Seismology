@@ -1,0 +1,16 @@
+ 2008  819 2213 47.7 L  22.184 -99.384  5.2  RAL  2 0.2 2.7LRAL                1
+ SPEC LA4 S  N MO 13.5 ST0.062 OM  1.8 f0 1.73 R1.3285 AL 3.56 WI  5.2 MW  3.0 3
+ SPEC LA4 S  N T221358 K 0.000 GD   78 VP 6.20 DE 3.00 Q0440.0 QA 0.70 VS 3.60 3
+ GAP=359        1.51     641.8    77.0999.9 -0.4913E+05 -0.9555E+05  0.8010E+06E
+ ACTION:UPD 12-06-08 11:37 OP:RALL STATUS:               ID:20080819221347     I
+ 2008-08-19-2213-51S.PLUR1_009                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LZ4  SN IP       2214  3.03                              63    0.0210 95.2 173 
+ LZ4  SZ E        2214  3.17                  348.0  7.5     -4        95.2 173 
+ LZ4  SE IS       2214 14.67                              63    0.5110 95.2 173 
+ LZ4  SZ  AML     2214 18.72       362.6 0.48                          95.2 173 
+ LA4  SZ E        2214  0.31                  358.4 11.8      4        77.9 174 
+ LA4  SZ  AML     2214 15.41       392.3 0.48                          77.9 174 
+ LA4  SN IP       2214  0.27                              63   -0.0610 77.9 174 
+ LA4  SE IS     C 2214  9.05                              63   -0.4810 77.9 174 
+                                                                                

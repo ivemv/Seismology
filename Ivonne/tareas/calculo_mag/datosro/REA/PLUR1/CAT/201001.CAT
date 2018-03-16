@@ -1,0 +1,93 @@
+ 2010  1 5 0545 38.6 L  21.091 -99.144 10.0  RAL  1 0.0-0.5LRAL                1
+ GAP=360        0.30       3.8     3.8  0.0 -0.1415E+02  0.4890E+07  0.4851E+07E
+ ACTION:UPD 12-06-08 11:37 OP:RALL STATUS:               ID:20100105054538     I
+ 2010-01-05-0545-33S.PLUR1_003                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LO8  SN IP        545 41.14                             134    0.0210 10.4 317 
+ LO8  SZ E         545 41.21                  136.7  5.8      0        10.4 317 
+ LO8  SE IS        545 42.98                             134   -0.0210 10.4 317 
+ LO8  SZ  AML      545 43.58         1.4 0.26                          10.4 317 
+                                                                                
+ 2010  1 5 1252 29.0 L  21.073 -99.134 10.0  RAL  1 0.0-0.4LRAL                1
+ GAP=360        0.30       3.6     3.3  0.0 -0.1176E+02  0.4890E+07  0.4851E+07E
+ ACTION:UPD 12-06-08 11:37 OP:RALL STATUS:               ID:20100105125229     I
+ 2010-01-05-1252-24S.PLUR1_003                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LO8  SN IP       1252 31.84                             128    0.0210 12.6 319 
+ LO8  SZ E        1252 31.87                  139.2  6.0      0        12.6 319 
+ LO8  SE IS       1252 33.85                             128   -0.0210 12.6 319 
+ LO8  SZ  AML     1252 34.00         1.5 0.36                          12.6 319 
+                                                                                
+ 2010  1 7 0320  7.8 L  21.082 -99.088 10.0  RAL  1 0.0-0.2LRAL                1
+ GAP=360        0.30       2.4     3.9  0.0 -0.9182E+01  0.4890E+07  0.4851E+07E
+ ACTION:UPD 12-06-08 11:37 OP:RALL STATUS:               ID:20100107032007     I
+ 2010-01-07-0320-04S.PLUR1_003                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LO8  SN IP        320 11.03                             121    0.0110 15.5 303 
+ LO8  SZ E         320 11.06                  123.4  6.2      0        15.5 303 
+ LO8  SE IS        320 13.34                             121   -0.0110 15.5 303 
+ LO8  SZ  AML      320 14.00         1.8 0.26                          15.5 303 
+                                                                                
+ 2010  1 8 1708 44.4 L  21.318 -99.275 10.0  RAL  1 0.0 0.4LRAL                1
+ GAP=360        0.30       3.9     1.6  0.0 -0.5770E+01  0.4890E+07  0.4851E+07E
+ ACTION:UPD 12-06-08 11:37 OP:RALL STATUS:               ID:20100108170844     I
+ 2010-01-08-1708-40S.PLUR1_003                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LO8  SN IP       17 8 48.02                             116    0.0010 18.7 160 
+ LO8  SZ E        17 8 48.10                  339.9  9.3      0        18.7 160 
+ LO8  SE IS       17 8 50.66                             116    0.0010 18.7 160 
+ LO8  SZ  AML     17 8 51.74         7.5 0.40                          18.7 160 
+                                                                                
+ 2010  119 0931 26.0 L  21.324 -99.341 10.0  RAL  1 0.0 1.4LRAL                1
+ GAP=360        0.30       4.1     1.0  0.0  0.3343E+01  0.4890E+07  0.4851E+07E
+ ACTION:UPD 12-06-08 11:37 OP:RALL STATUS:               ID:20100119093126     I
+ 2010-01-19-0931-20S.PLUR1_003                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LA4  SN IP        931 29.51                             116    0.0210 18.0  11 
+ LA4  SZ E         931 29.51                  190.7 12.3      0        18.0  11 
+ LA4  SE IS        931 32.02                             116   -0.0210 18.0  11 
+ LA4  SZ  AML      931 34.33        80.0 0.60                          18.0  11 
+                                                                                
+ 2010  120 1546 50.5 L  21.327 -99.278 10.0  RAL  1 0.0 0.5LRAL                1
+ GAP=360        0.30       3.8     1.6  0.0 -0.5602E+01  0.4890E+07  0.4851E+07E
+ ACTION:UPD 12-06-08 11:37 OP:RALL STATUS:               ID:20100120154650     I
+ 2010-01-20-1546-47S.PLUR1_003                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LO8  SZ E        1546 54.24                  340.0  6.5      0        19.7 160 
+ LO8  SN IP       1546 54.31                             115    0.0010 19.7 160 
+ LO8  SE IS       1546 57.05                             115    0.0010 19.7 160 
+ LO8  SZ  AML     1546 57.91         8.5 0.32                          19.7 160 
+                                                                                
+ 2010  122 15 0 14.0 L                       RAL  0                            1
+ ACTION:UPD 12-06-08 11:37 OP:RALL STATUS:               ID:20100122150014     I
+ 2010-01-22-1500-13S.PLUR1_006                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2010  126 2011 26.6 L  21.887 -99.132 10.0  RAL  2 1.9 1.7LRAL                1
+ GAP=344       33.49     360.3   191.7999.9  0.4739E+05 -0.2985E+06 -0.6321E+06E
+ ACTION:UPD 12-06-08 11:37 OP:RALL STATUS:               ID:20100126201126     I
+ 2010-01-26-2011-26S.PLUR1_006                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LA4  SZ E        2011 35.23                  293.6 14.7     89        48.2 202 
+ LA4  SN IP       2011 35.32                              97    0.7210 48.2 202 
+ LA4  SE IS       2011 40.04                              97   -0.4210 48.2 202 
+ LA4  SZ  AML     2011 42.60       166.9 0.28                          48.2 202 
+ LO8  SZ E        2011 39.91                  143.8  6.4    138        80.9 186 
+ LO8  SN IP       2011 39.94                              94    0.2710 80.9 186 
+ LO8  SE IS       2011 48.67                              94   -0.5710 80.9 186 
+ LO8  SZ  AML     2011 50.47        11.6 0.34                          80.9 186 
+                                                                                
+ 2010  128 0828 59.5 L  21.892 -99.191 10.0  RAL  2 1.9 1.6LRAL                1
+ GAP=346       33.45     366.0   159.0999.9  0.3236E+05 -0.1776E+06 -0.5550E+06E
+ ACTION:UPD 12-06-08 11:37 OP:RALL STATUS:               ID:20100128082859     I
+ 2010-01-28-0828-59S.PLUR1_006                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LA4  SZ E         829  8.20                  288.9 14.7     86        46.8 195 
+ LA4  SN IP        829  8.21                              98    0.8710 46.8 195 
+ LA4  SE IS        829 12.74                              98   -0.3010 46.8 195 
+ LA4  SZ  AML      829 13.15       159.7 0.32                          46.8 195 
+ LO8  SN IP        829 12.70                              94    0.0410 81.1 182 
+ LO8  SZ E         829 12.82                  140.8  6.6    139        81.1 182 
+ LO8  SE IS        829 21.63                              94   -0.6110 81.1 182 
+ LO8  SZ  AML      829 22.81        10.5 0.34                          81.1 182 
+                                                                                

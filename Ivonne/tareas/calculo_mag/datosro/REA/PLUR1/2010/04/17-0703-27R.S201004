@@ -1,0 +1,16 @@
+ 2010  417 0703 27.7 R  21.278 -99.272100.0  RAL  2 0.7 3.0LRAL                1
+ SPEC LG3 S  N MO 12.9 ST  3.3 OM  1.0 f0 10.6 R0.2169 AL 6.82 WI  5.8 MW  2.5 3
+ SPEC LG3 S  N T 7 339 K 0.000 GD  100 VP 6.20 DE 3.00 Q0440.0 QA 0.70 VS 3.60 3
+ GAP=303        3.54       9.1     6.2 41.5 -0.3176E+02  0.3617E+01 -0.6718E+01E
+ ACTION:UPD 12-06-08 11:37 OP:RALL STATUS:               ID:20100417070327     I
+ 2010-04-17-0703-29S.PLUR1_006                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LO8  SE IS        7 3 49.70                             171   -1.3010 14.5 155 
+ LO8  SN IP        7 3 39.30                             171   -1.8610 14.5 155 
+ LG3  SZ E         7 3 41.50                  278.0 12.1      0        2.00  98 
+ LG3  SZ  AML      7 3 54.00      1271.5 0.54                          2.00  98 
+ LG3  SN IP        7 3 41.64                             179    0.6410 2.00  98 
+ LG3  SE IS        7 3 53.23                             179    2.5210 2.00  98 
+ LO8  SZ E         7 3 39.63                  335.6  8.6      0        14.5 155 
+ LO8  SZ  AML      7 3 50.66       217.1 0.66                          14.5 155 
+                                                                                

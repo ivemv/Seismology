@@ -1,0 +1,14 @@
+ 2010  725 0801 50.3 L  21.389 -99.327  0.0  RAL  2 0.8-0.6LRAL                1
+ GAP=214       13.93       8.8    17.4 81.3  0.1312E+03  0.9573E+02  0.8344E+02E
+ ACTION:UPD 12-06-08 11:37 OP:RALL STATUS:               ID:20100725080150     I
+ 2010-07-25-0801-40S.PLUR1_006                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LT9  SZ E         8 1 50.28                  204.2 11.9     22        0.65   2 
+ LT9  SN IP        8 1 50.28                             138   -0.1410 0.65   2 
+ LT9  SE IS        8 1 50.87                             138    0.3210 0.65   2 
+ LT9  SZ  AML      8 1 50.98         3.8 0.38                          0.65   2 
+ LG3  SN IP        8 1 52.44                              95   -0.4010 14.7 149 
+ LG3  SZ E         8 1 52.46                   33.1 10.7     64        14.7 149 
+ LG3  SE IS        8 1 54.95                              95    0.2210 14.7 149 
+ LG3  SZ  AML      8 1 56.00         3.6 0.26                          14.7 149 
+                                                                                

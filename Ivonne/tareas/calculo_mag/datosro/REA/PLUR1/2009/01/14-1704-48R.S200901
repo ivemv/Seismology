@@ -1,0 +1,15 @@
+ 2009  114 1704 48.3 R  19.027 -98.753 30.6  RAL  4 0.2 3.0LRAL                1
+ SPEC LA4 S  N MO 13.5 ST0.339 OM  1.2 f0 3.04 R0.7544 AL 2.72 WI  6.7 MW  3.0 3
+ SPEC LA4 S  N T17 522 K 0.000 GD  279 VP 6.20 DE 3.00 Q0440.0 QA 0.70 VS 3.60 3
+ GAP=358        1.05     349.7    78.6999.9 -0.2580E+05 -0.7075E+07  0.3334E+08E
+ ACTION:UPD 12-06-08 11:37 OP:RALL STATUS:               ID:20090114170448     I
+ 2009-01-14-1705-08S.PLUR1_012                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LO8  SE IS       17 5 44.95                              90    0.5910  241 349 
+ LD5  SE IS       17 5 44.83                              90   -0.5910  246 346 
+ LZ4  SE IS       17 5 40.77                              90   -7.68 0  261 348 
+ LA4  SE IS       17 5 51.35                              90   -0.79 0  278 348 
+ LA4  SZ E        17 5 25.09                  167.2 10.7      0         278 348 
+ LA4  SZ  AML     17 5 51.23       157.7 0.46                           278 348 
+ LA4  SN IP       17 5 25.22                              90    0.0110  278 348 
+                                                                                
