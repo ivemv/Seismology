@@ -1,0 +1,68 @@
+  SENSOR TYPE: SEISMOMETER       RESPONSE: VELOCITY       
+  SEISMOMETER PERIOD=   2.00000000    
+  GENERATOR CONSTANT=   400.000000    
+  DAMPING RATIO     =  0.699999988    
+  AMPLIFIER GAIN(DB)=  -3.00000000    
+  RECORDING GAIN=       4190000.00    
+  GAIN AT 1 HZ=         1.15654618E+09
+
+ F=  0.0050   T=  200.00    AMP=      0.000103    AMPDB= -79.8    PHAS=  -180.8
+ F=  0.0059   T=  169.49    AMP=      0.000143    AMPDB= -76.9    PHAS=  -180.9
+ F=  0.0070   T=  142.86    AMP=      0.000201    AMPDB= -73.9    PHAS=  -181.1
+ F=  0.0083   T=  120.48    AMP=      0.000283    AMPDB= -71.0    PHAS=  -181.3
+ F=  0.0098   T=  102.04    AMP=      0.000394    AMPDB= -68.1    PHAS=  -181.6
+ F=  0.0120   T=   83.33    AMP=      0.000591    AMPDB= -64.6    PHAS=  -181.9
+ F=  0.0140   T=   71.43    AMP=      0.000804    AMPDB= -61.9    PHAS=  -182.2
+ F=  0.0160   T=   62.50    AMP=      0.001051    AMPDB= -59.6    PHAS=  -182.6
+ F=  0.0190   T=   52.63    AMP=      0.001481    AMPDB= -56.6    PHAS=  -183.0
+ F=  0.0230   T=   43.48    AMP=      0.002171    AMPDB= -53.3    PHAS=  -183.7
+ F=  0.0270   T=   37.04    AMP=      0.002992    AMPDB= -50.5    PHAS=  -184.3
+ F=  0.0320   T=   31.25    AMP=      0.004202    AMPDB= -47.5    PHAS=  -185.1
+ F=  0.0370   T=   27.03    AMP=      0.005618    AMPDB= -45.0    PHAS=  -185.9
+ F=  0.0440   T=   22.73    AMP=      0.007946    AMPDB= -42.0    PHAS=  -187.1
+ F=  0.0520   T=   19.23    AMP=      0.011098    AMPDB= -39.1    PHAS=  -188.4
+ F=  0.0620   T=   16.13    AMP=      0.015777    AMPDB= -36.0    PHAS=  -190.0
+ F=  0.0730   T=   13.70    AMP=      0.021873    AMPDB= -33.2    PHAS=  -191.8
+ F=  0.0870   T=   11.49    AMP=      0.031065    AMPDB= -30.2    PHAS=  -194.1
+ F=  0.1000   T=   10.00    AMP=      0.041037    AMPDB= -27.7    PHAS=  -196.3
+ F=  0.1200   T=    8.33    AMP=      0.059063    AMPDB= -24.6    PHAS=  -199.6
+ F=  0.1400   T=    7.14    AMP=      0.080311    AMPDB= -21.9    PHAS=  -203.0
+ F=  0.1700   T=    5.88    AMP=      0.118081    AMPDB= -18.6    PHAS=  -208.3
+ F=  0.2000   T=    5.00    AMP=      0.162593    AMPDB= -15.8    PHAS=  -213.7
+ F=  0.2400   T=    4.17    AMP=      0.231351    AMPDB= -12.7    PHAS=  -221.1
+ F=  0.2800   T=    3.57    AMP=      0.308754    AMPDB= -10.2    PHAS=  -228.8
+ F=  0.3300   T=    3.03    AMP=      0.412739    AMPDB=  -7.7    PHAS=  -238.6
+ F=  0.3900   T=    2.56    AMP=      0.538031    AMPDB=  -5.4    PHAS=  -250.3
+ F=  0.4600   T=    2.17    AMP=      0.669429    AMPDB=  -3.5    PHAS=  -263.2
+ F=  0.5500   T=    1.82    AMP=      0.798684    AMPDB=  -2.0    PHAS=    82.2
+ F=  0.6500   T=    1.54    AMP=      0.890767    AMPDB=  -1.0    PHAS=    69.2
+ F=  0.7700   T=    1.30    AMP=      0.952157    AMPDB=  -0.4    PHAS=    57.5
+ F=  0.9100   T=    1.10    AMP=      0.987614    AMPDB=  -0.1    PHAS=    47.8
+ F=  1.1000   T=    0.91    AMP=      1.008699    AMPDB=   0.1    PHAS=    38.7
+ F=  1.3000   T=    0.77    AMP=      1.017821    AMPDB=   0.2    PHAS=    32.3
+ F=  1.5000   T=    0.67    AMP=      1.021885    AMPDB=   0.2    PHAS=    27.7
+ F=  1.8000   T=    0.56    AMP=      1.024446    AMPDB=   0.2    PHAS=    22.9
+ F=  2.1000   T=    0.48    AMP=      1.025429    AMPDB=   0.2    PHAS=    19.5
+ F=  2.5000   T=    0.40    AMP=      1.025914    AMPDB=   0.2    PHAS=    16.3
+ F=  2.9000   T=    0.34    AMP=      1.026071    AMPDB=   0.2    PHAS=    14.0
+ F=  3.5000   T=    0.29    AMP=      1.026119    AMPDB=   0.2    PHAS=    11.5
+ F=  4.1000   T=    0.24    AMP=      1.026106    AMPDB=   0.2    PHAS=     9.8
+ F=  4.9000   T=    0.20    AMP=      1.026072    AMPDB=   0.2    PHAS=     8.2
+ F=  5.8000   T=    0.17    AMP=      1.026038    AMPDB=   0.2    PHAS=     6.9
+ F=  6.8000   T=    0.15    AMP=      1.026010    AMPDB=   0.2    PHAS=     5.9
+ F=  8.1000   T=    0.12    AMP=      1.025985    AMPDB=   0.2    PHAS=     5.0
+ F=  9.5000   T=    0.11    AMP=      1.025967    AMPDB=   0.2    PHAS=     4.2
+ F= 11.0000   T=    0.09    AMP=      1.025954    AMPDB=   0.2    PHAS=     3.6
+ F= 13.0000   T=    0.08    AMP=      1.025943    AMPDB=   0.2    PHAS=     3.1
+ F= 16.0000   T=    0.06    AMP=      1.025934    AMPDB=   0.2    PHAS=     2.5
+ F= 19.0000   T=    0.05    AMP=      1.025928    AMPDB=   0.2    PHAS=     2.1
+ F= 22.0000   T=    0.05    AMP=      1.025924    AMPDB=   0.2    PHAS=     1.8
+ F= 26.0000   T=    0.04    AMP=      1.025922    AMPDB=   0.2    PHAS=     1.5
+ F= 31.0000   T=    0.03    AMP=      1.025919    AMPDB=   0.2    PHAS=     1.3
+ F= 37.0000   T=    0.03    AMP=      1.025918    AMPDB=   0.2    PHAS=     1.1
+ F= 43.0000   T=    0.02    AMP=      1.025917    AMPDB=   0.2    PHAS=     0.9
+ F= 51.0000   T=    0.02    AMP=      1.025916    AMPDB=   0.2    PHAS=     0.8
+ F= 60.0000   T=    0.02    AMP=      1.025916    AMPDB=   0.2    PHAS=     0.7
+ F= 71.0000   T=    0.01    AMP=      1.025915    AMPDB=   0.2    PHAS=     0.6
+ F= 85.0000   T=    0.01    AMP=      1.025915    AMPDB=   0.2    PHAS=     0.5
+ F=100.0000   T=    0.01    AMP=      1.025915    AMPDB=   0.2    PHAS=     0.4
